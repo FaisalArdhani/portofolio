@@ -1,7 +1,7 @@
 {
   "name": "my-portofolio-1.2v",
   "version": "0.1.0",
-  "homepage": "http://FaisalArdhani.github.io/portofolio",
+  "homepage": "https://FaisalArdhani.github.io/portofolio",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.16.5",
